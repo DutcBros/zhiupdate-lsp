@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="xposed_scope">
+        <item>com.xunlei.downloadprovider</item>
+        <item>com.xunlei.browser</item>
+        <item>com.xunlei.download</item>
+        <item>com.quark.browser</item>
+        <item>com.quark.browser.lite</item>
+        <item>com.guwendao.gwd</item>
+        <item>org.gushiwen.gushiwen</item>
+    </string-array>
+</resources>

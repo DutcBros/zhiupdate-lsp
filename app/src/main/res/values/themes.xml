@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Zhiupdate" parent="@android:style/Theme.DeviceDefault.NoActionBar">
+        <item name="android:statusBarColor">#0E0F0C</item>
+        <item name="android:navigationBarColor">#0E0F0C</item>
+        <item name="android:windowBackground">#0E0F0C</item>
+        <item name="android:colorPrimary">#8AA38A</item>
+    </style>
+</resources>

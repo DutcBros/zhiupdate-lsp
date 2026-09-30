@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">止更</string>
+    <string name="xposed_description">拦截迅雷、夸克、古文岛、古诗文网的强制更新墙，并阻断因拒更触发的闪退。不改会员、不改下载。</string>
+</resources>

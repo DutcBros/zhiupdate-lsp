@@ -1,0 +1,2 @@
+-keep class io.zhiupdate.lsp.MainHook { *; }
+-keep class io.zhiupdate.lsp.** { *; }
